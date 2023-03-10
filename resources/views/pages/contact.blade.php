@@ -30,14 +30,14 @@
           style="top: 0; left: -1.4rem; z-index: 0;"></div>
         <div class="row gx-md-5 gy-5">
           <div class="col-md-6">
-            <figure class="rounded mt-md-10 position-relative"><img src="./assets/img/photos/g5.jpg"
-                srcset="./assets/img/photos/g5@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded mt-md-10 position-relative"><img src="./assets/images/index1.png"
+                srcset="./assets/images/index1@2x.png 2x" alt=""></figure>
           </div>
           <!--/column -->
           <div class="col-md-6">
             <div class="row gx-md-5 gy-5">
               <div class="col-md-12 order-md-2">
-                <figure class="rounded"><img src="./assets/img/photos/g6.jpg" srcset="./assets/img/photos/g6@2x.jpg 2x"
+                <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
                     alt=""></figure>
               </div>
               <!--/column -->

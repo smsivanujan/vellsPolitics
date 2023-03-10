@@ -10,7 +10,7 @@
         </div>
         <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0"
           style="bottom: -1.8rem; right: -0.8rem; width: 85%; height: 90%;"></div>
-        <figure class="rounded"><img src="./assets/img/photos/about7.jpg" srcset="./assets/img/photos/about7@2x.jpg 2x"
+        <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
             alt="" /></figure>
       </div>
       <!--/column -->
@@ -31,27 +31,27 @@
     <div class="px-lg-5 mb-14 mb-md-17">
       <div class="row gx-0 gx-md-8 gx-xl-12 gy-8 align-items-center">
         <div class="col-4 col-md-2">
-          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/img/brands/c1.png" alt="" /></figure>
+          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/images/index1.png" alt="" /></figure>
         </div>
         <!--/column -->
         <div class="col-4 col-md-2">
-          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/img/brands/c2.png" alt="" /></figure>
+          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/images/index1.png" alt="" /></figure>
         </div>
         <!--/column -->
         <div class="col-4 col-md-2">
-          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/img/brands/c3.png" alt="" /></figure>
+          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/images/index1.png" alt="" /></figure>
         </div>
         <!--/column -->
         <div class="col-4 col-md-2">
-          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/img/brands/c4.png" alt="" /></figure>
+          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/images/index1.png" alt="" /></figure>
         </div>
         <!--/column -->
         <div class="col-4 col-md-2">
-          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/img/brands/c5.png" alt="" /></figure>
+          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/images/index1.png" alt="" /></figure>
         </div>
         <!--/column -->
         <div class="col-4 col-md-2">
-          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/img/brands/c6.png" alt="" /></figure>
+          <figure class="px-5 px-md-0 px-lg-2 px-xl-3 px-xxl-4"><img src="./assets/images/index1.png" alt="" /></figure>
         </div>
         <!--/column -->
       </div>
@@ -108,7 +108,7 @@
           style="top: -2.2rem; left: -2.4rem;"></div>
         <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0"
           style="bottom: -1.8rem; right: -1.5rem; width: 85%; height: 90%; "></div>
-        <figure class="rounded"><img src="./assets/img/photos/about9.jpg" srcset="./assets/img/photos/about9@2x.jpg 2x"
+        <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
             alt="" /></figure>
       </div>
       <!--/column -->
@@ -162,31 +162,31 @@
       <div class="swiper">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp10.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp11.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp12.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp13.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp14.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp15.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
           <div class="swiper-slide">
-            <figure class="rounded"><img src="./assets/img/photos/pp16.jpg" alt="" /></figure>
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
           </div>
           <!--/.swiper-slide -->
         </div>
@@ -200,14 +200,14 @@
   <div class="container">
     <div class="row gy-10 gy-sm-13 gx-lg-3 align-items-center mb-14 mb-md-17 mb-lg-19">
       <div class="col-md-8 col-lg-6 position-relative">
-        <a href="./assets/media/movie.mp4"
+        <a href="https://www.youtube.com/watch?v=OumxjVEoV8M"
           class="btn btn-circle btn-primary btn-play ripple mx-auto mb-5 position-absolute"
           style="top:50%; left: 50%; transform: translate(-50%,-50%); z-index:3;" data-glightbox><i
             class="icn-caret-right"></i></a>
         <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0"
           style="bottom: -1.8rem; right: -1.5rem; width: 85%; height: 90%; "></div>
-        <figure class="rounded"><img src="./assets/img/photos/about12.jpg"
-            srcset="./assets/img/photos/about12@2x.jpg 2x" alt=""></figure>
+        <figure class="rounded"><img src="./assets/images/index1.png"
+            srcset="./assets/images/index1@2x.png 2x" alt=""></figure>
       </div>
       <!--/column -->
       <div class="col-lg-5 offset-lg-1">
@@ -256,8 +256,8 @@
           <div class="swiper">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/avatars/t1.jpg"
-                  srcset="./assets/img/avatars/t1@2x.jpg 2x" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/images/index1.png"
+                  srcset="./assets/images/index1@2x.png 2x" alt="" />
                 <h4 class="mb-1">Cory Zamora</h4>
                 <div class="meta mb-2">Marketing Specialist</div>
                 <p class="mb-2">Etiam porta sem magna malesuada mollis.</p>
@@ -270,8 +270,8 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/avatars/t2.jpg"
-                  srcset="./assets/img/avatars/t2@2x.jpg 2x" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/images/index1.png"
+                  srcset="./assets/images/index1@2x.png 2x" alt="" />
                 <h4 class="mb-1">Coriss Ambady</h4>
                 <div class="meta mb-2">Financial Analyst</div>
                 <p class="mb-2">Aenean eu leo quam. Pellentesque ornare lacinia.</p>
@@ -284,8 +284,8 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/avatars/t3.jpg"
-                  srcset="./assets/img/avatars/t3@2x.jpg 2x" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/images/index1.png"
+                  srcset="./assets/images/index1@2x.png 2x" alt="" />
                 <h4 class="mb-1">Nikolas Brooten</h4>
                 <div class="meta mb-2">Sales Manager</div>
                 <p class="mb-2">Donec ornare elit quam porta gravida at eget.</p>
@@ -298,8 +298,8 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/avatars/t4.jpg"
-                  srcset="./assets/img/avatars/t4@2x.jpg 2x" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/images/index1.png"
+                  srcset="./assets/images/index1@2x.png 2x" alt="" />
                 <h4 class="mb-1">Jackie Sanders</h4>
                 <div class="meta mb-2">Investment Planner</div>
                 <p class="mb-2">Nullam risus eget urna mollis ornare vel eu leo.</p>
@@ -312,8 +312,8 @@
               </div>
               <!--/.swiper-slide -->
               <div class="swiper-slide">
-                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/img/avatars/t5.jpg"
-                  srcset="./assets/img/avatars/t5@2x.jpg 2x" alt="" />
+                <img class="rounded-circle w-20 mx-auto mb-4" src="./assets/images/index1.png"
+                  srcset="./assets/images/index1@2x.png 2x" alt="" />
                 <h4 class="mb-1">Tina Geller</h4>
                 <div class="meta mb-2">Assistant Buyer</div>
                 <p class="mb-2">Vivamus sagittis lacus vel augue laoreet rutrum.</p>
@@ -338,7 +338,7 @@
     <div class="card bg-soft-primary">
       <div class="card-body p-md-10 py-xxl-16 position-relative">
         <div class="position-absolute d-none d-lg-block" style="bottom:0; left:10%; width: 28%; z-index:2">
-          <figure><img src="./assets/img/photos/co2.png" srcset="./assets/img/photos/co2@2x.png 2x" alt=""></figure>
+          <figure><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x" alt=""></figure>
         </div>
         <div class="row gx-md-0 gx-xl-12 text-center">
           <div class="col-lg-7 offset-lg-5 col-xl-6">

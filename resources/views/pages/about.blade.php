@@ -13,7 +13,7 @@
     <!-- /.row -->
   </div>
   <!-- /.container -->
-  <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="./assets/img/photos/bg12.jpg"
+  <figure class="position-absoute" style="bottom: 0; left: 0; z-index: 2;"><img src="./assets/images/index1.png"
       alt="" /></figure>
 </section>
 <!-- /section -->
@@ -24,18 +24,18 @@
         <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
         <div class="overlap-grid overlap-grid-2">
           <div class="item">
-            <figure class="rounded shadow"><img src="./assets/img/photos/about2.jpg"
-                srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="./assets/images/index1.png"
+                srcset="../assets/images/index1@2x.png 2x" alt=""></figure>
           </div>
           <div class="item">
-            <figure class="rounded shadow"><img src="./assets/img/photos/about3.jpg"
-                srcset="./assets/img/photos/about3@2x.jpg 2x" alt=""></figure>
+            <figure class="rounded shadow"><img src="./assets/images/index1.png"
+                srcset="./assets/images/index1@2x.png 2x" alt=""></figure>
           </div>
         </div>
       </div>
       <!--/column -->
       <div class="col-lg-6">
-        <img src="./assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
+        <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
         <h2 class="display-4 mb-3">Who Are We?</h2>
         <p class="lead fs-lg">We are a digital and branding company that believes in the power of creative strategy and
           along with great design.</p>
@@ -69,7 +69,7 @@
     <!--/.row -->
     <div class="row mb-5">
       <div class="col-md-10 col-xl-8 col-xxl-7 mx-auto text-center">
-        <img src="./assets/img/icons/lineal/list.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
+        <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
         <h2 class="display-4 mb-4 px-lg-14">Here are 3 working steps to organize our business projects.</h2>
       </div>
       <!-- /column -->
@@ -152,7 +152,7 @@
       <div class="col-md-5 col-lg-5 col-xl-4 offset-xl-1 d-none d-md-flex position-relative align-self-end">
         <div class="shape rounded-circle bg-pale-primary rellax w-21 h-21 d-md-none d-lg-block" data-rellax-speed="1"
           style="top: 7rem; left: 1rem"></div>
-        <figure><img src="./assets/img/photos/co1.png" srcset="./assets/img/photos/co1@2x.png 2x" alt=""></figure>
+        <figure><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x" alt=""></figure>
       </div>
       <!--/column -->
       <div class="col-md-7 col-lg-6 col-xl-6 col-xxl-5 offset-xl-1">
@@ -216,7 +216,7 @@
   <div class="container py-14 py-md-16">
     <div class="row mb-3">
       <div class="col-md-10 col-xl-9 col-xxl-7 mx-auto text-center">
-        <img src="./assets/img/icons/lineal/team.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
+        <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
         <h2 class="display-4 mb-3 px-lg-14">Save your time and money by choosing our professional team.</h2>
       </div>
       <!--/column -->
@@ -235,8 +235,8 @@
               <div class="item-inner">
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te1.jpg"
-                      srcset="./assets/img/avatars/te1@2x.jpg 2x" alt="" />
+                    <img class="rounded-circle w-15 mb-4" src="./assets/images/index1.png"
+                      srcset="./assets/images/index1@2x.png 2x" alt="" />
                     <h4 class="mb-1">Coriss Ambady</h4>
                     <div class="meta mb-2">Financial Analyst</div>
                     <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -258,7 +258,7 @@
               <div class="item-inner">
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te2.jpg"
+                    <img class="rounded-circle w-15 mb-4" src="./assets/images/index1.png"
                       srcset="./assets/img/avatars/te2@2x.jpg 2x" alt="" />
                     <h4 class="mb-1">Cory Zamora</h4>
                     <div class="meta mb-2">Marketing Specialist</div>
@@ -281,8 +281,8 @@
               <div class="item-inner">
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te3.jpg"
-                      srcset="./assets/img/avatars/te3@2x.jpg 2x" alt="" />
+                    <img class="rounded-circle w-15 mb-4" src="./assets/images/index1.png"
+                      srcset="./assets/images/index1@2x.png 2x" alt="" />
                     <h4 class="mb-1">Nikolas Brooten</h4>
                     <div class="meta mb-2">Sales Manager</div>
                     <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -304,8 +304,8 @@
               <div class="item-inner">
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te4.jpg"
-                      srcset="./assets/img/avatars/te4@2x.jpg 2x" alt="" />
+                    <img class="rounded-circle w-15 mb-4" src="./assets/images/index1.png"
+                      srcset="./assets/images/index1@2x.png 2x" alt="" />
                     <h4 class="mb-1">Jackie Sanders</h4>
                     <div class="meta mb-2">Investment Planner</div>
                     <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -327,8 +327,8 @@
               <div class="item-inner">
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te5.jpg"
-                      srcset="./assets/img/avatars/te5@2x.jpg 2x" alt="" />
+                    <img class="rounded-circle w-15 mb-4" src="./assets/images/index1.png"
+                      srcset="./assets/images/index1@2x.png 2x" alt="" />
                     <h4 class="mb-1">Laura Widerski</h4>
                     <div class="meta mb-2">Sales Specialist</div>
                     <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -350,8 +350,8 @@
               <div class="item-inner">
                 <div class="card">
                   <div class="card-body">
-                    <img class="rounded-circle w-15 mb-4" src="./assets/img/avatars/te6.jpg"
-                      srcset="./assets/img/avatars/te6@2x.jpg 2x" alt="" />
+                    <img class="rounded-circle w-15 mb-4" src="./assets/images/index1.png"
+                      srcset="./assets/images/index1@2x.png 2x" alt="" />
                     <h4 class="mb-1">Tina Geller</h4>
                     <div class="meta mb-2">Financial Analyst</div>
                     <p class="mb-2">Fermentum massa justo sit amet risus morbi leo.</p>
@@ -387,28 +387,28 @@
       <div class="col-xl-10 mx-auto">
         <div class="row align-items-center counter-wrapper gy-6 text-center">
           <div class="col-md-3">
-            <img src="./assets/img/icons/lineal/check.svg" class="svg-inject icon-svg icon-svg-lg text-primary mb-3"
+            <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-lg text-primary mb-3"
               alt="" />
             <h3 class="counter">7518</h3>
             <p>Completed Projects</p>
           </div>
           <!--/column -->
           <div class="col-md-3">
-            <img src="./assets/img/icons/lineal/user.svg" class="svg-inject icon-svg icon-svg-lg text-primary mb-3"
+            <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-lg text-primary mb-3"
               alt="" />
             <h3 class="counter">3472</h3>
             <p>Satisfied Customers</p>
           </div>
           <!--/column -->
           <div class="col-md-3">
-            <img src="./assets/img/icons/lineal/briefcase-2.svg"
+            <img src="./assets/images/index1.png"
               class="svg-inject icon-svg icon-svg-lg text-primary mb-3" alt="" />
             <h3 class="counter">2184</h3>
             <p>Expert Employees</p>
           </div>
           <!--/column -->
           <div class="col-md-3">
-            <img src="./assets/img/icons/lineal/award-2.svg" class="svg-inject icon-svg icon-svg-lg text-primary mb-3"
+            <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-lg text-primary mb-3"
               alt="" />
             <h3 class="counter">4523</h3>
             <p>Awards Won</p>
@@ -430,12 +430,12 @@
       <div class="col-md-8 col-lg-6 offset-lg-0 col-xl-5 offset-xl-1 position-relative">
         <div class="shape bg-dot primary rellax w-17 h-21" data-rellax-speed="1" style="top: -2rem; left: -1.4rem;">
         </div>
-        <figure class="rounded"><img src="./assets/img/photos/about4.jpg" srcset="./assets/img/photos/about4@2x.jpg 2x"
+        <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
             alt=""></figure>
       </div>
       <!--/column -->
       <div class="col-lg-6">
-        <img src="./assets/img/icons/lineal/telemarketer.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
+        <img src="./assets/images/index1.png" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
         <h2 class="display-4 mb-8">Convinced yet? Let's make something great together.</h2>
         <div class="d-flex flex-row">
           <div>
