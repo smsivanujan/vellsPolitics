@@ -15,7 +15,11 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
     <link rel="preload" href="./assets/css/fonts/dm.css" as="style" onload="this.rel='stylesheet'" />
 </head>
-
+<style>
+    .banner {
+        background-image: url("./assets/images/index1.png");
+    }
+</style>
 <body>
     <div class="content-wrapper">
         <header class="wrapper bg-light">
@@ -66,6 +70,9 @@
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="/events">Events</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="/blog">Blog</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link" href="/about">About</a>

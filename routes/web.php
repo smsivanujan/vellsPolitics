@@ -12,8 +12,12 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-Route::get('/', function () {
+Route::get('/welcome', function () {
     return view('welcome');
+});
+
+Route::get('/', function () {
+    return view('pages.index');
 });
 
 Route::get('/home', function () {
@@ -26,6 +30,10 @@ Route::get('/about', function () {
 
 Route::get('/contact', function () {
     return view('pages.contact');
+});
+
+Route::get('/blog', function () {
+    return view('pages.blog');
 });
 
 Route::get('/events', function () {
