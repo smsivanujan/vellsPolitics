@@ -15,11 +15,6 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
     <link rel="preload" href="./assets/css/fonts/dm.css" as="style" onload="this.rel='stylesheet'" />
 </head>
-<style>
-    .banner {
-        background-image: url("./assets/images/index1.png");
-    }
-</style>
 <body>
     <div class="content-wrapper">
         <header class="wrapper bg-light">

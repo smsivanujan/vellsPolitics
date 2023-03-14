@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="wrapper bg-light">
-  <div class="container pt-8 pt-md-14">
+  <div class="container">
     <div class="row gx-lg-0 gx-xl-8 gy-10 gy-md-13 gy-lg-0 mb-7 mb-md-10 mb-lg-16 align-items-center">
       <div class="col-md-8 offset-md-2 col-lg-6 offset-lg-1 position-relative order-lg-2" data-cue="zoomIn">
         <div class="shape bg-dot primary rellax w-17 h-19" data-rellax-speed="1" style="top: -1.7rem; left: -1.5rem;">
@@ -61,7 +61,7 @@
   </div>
 </section>
 <section class="wrapper bg-light">
-  <div class="container pt-8 pt-md-14">
+  <div class="container">
     <div class="row">
       <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto text-center">
         <h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>
@@ -109,7 +109,7 @@
   </div>
 </section>
 <section class="wrapper bg-light">
-  <div class="container pt-8 pt-md-14">
+  <div class="container">
     <div class="row gy-10 gy-sm-13 gx-lg-3 align-items-center mb-14 mb-md-17 mb-lg-19">
       <div class="col-md-8 col-lg-6 position-relative">
         <div class="shape bg-line red rounded-circle rellax w-18 h-18" data-rellax-speed="1"
@@ -139,12 +139,13 @@
   </div>
 </section>
 <section class="wrapper bg-light">
-  <div class="container pt-6 pt-md-14">
+  <div class="container">
     <div class="row">
       <div class="col-md-6 col-lg-6">
         <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
             alt="" /></figure>
-        <p class="mb-6 mt-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo
+        <p class="mb-6 mt-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
+          justo
           odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
           consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
           justo
@@ -155,7 +156,8 @@
       <div class="col-md-6 col-lg-6">
         <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
             alt="" /></figure>
-        <p class="mb-6 mt-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo
+        <p class="mb-6 mt-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
+          justo
           odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
           consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
           justo
@@ -166,11 +168,15 @@
     </div>
   </div>
 </section>
-<figure><img src="./assets/images/banner1.png" alt="" /></figure>
-<br><br>
-<figure><img src="./assets/images/banner2.png" alt="" /></figure>
+<section class="wrapper bg-light ml-5">
+  <div class="container pt-md-14">
+    <figure><img src="./assets/images/banner1.png" alt="" /></figure>
+    <br>
+    <figure><img src="./assets/images/banner2.png" alt="" /></figure>
+  </div>
+</section>
 <section class="wrapper bg-light">
-  <div class="container pt-8 pt-md-14">
+  <div class="container pt-md-14">
     <div class="row">
       <div class="col-lg-9 col-xl-8 col-xxl-7 mx-auto text-center">
         <h2 class="fs-15 text-uppercase text-muted mb-3">Latest Projects</h2>
@@ -181,8 +187,8 @@
     <!-- /.row -->
   </div>
   <!-- /.container -->
-  <div class="container-fluid px-md-6">
-    <div class="swiper-container blog grid-view mb-17 mb-md-19" data-margin="30" data-nav="true" data-dots="true"
+  <div class="container-fluid">
+    <div class="swiper-container blog grid-view" data-margin="20" data-nav="true" data-dots="true"
       data-items-xxl="2" data-items-md="2" data-items-xs="1">
       <div class="swiper">
         <div class="swiper-wrapper">
