@@ -58,6 +58,10 @@
       <!--/.row -->
     </div>
     <!-- /div -->
+  </div>
+</section>
+<section class="wrapper bg-light">
+  <div class="container pt-8 pt-md-14">
     <div class="row">
       <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto text-center">
         <h2 class="fs-15 text-uppercase text-muted mb-3">What We Do?</h2>
@@ -102,6 +106,10 @@
       <!--/column -->
     </div>
     <!--/.row -->
+  </div>
+</section>
+<section class="wrapper bg-light">
+  <div class="container pt-8 pt-md-14">
     <div class="row gy-10 gy-sm-13 gx-lg-3 align-items-center mb-14 mb-md-17 mb-lg-19">
       <div class="col-md-8 col-lg-6 position-relative">
         <div class="shape bg-line red rounded-circle rellax w-18 h-18" data-rellax-speed="1"
@@ -127,14 +135,16 @@
           consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
       </div>
       <!--/column -->
-      <div class="col-lg-5">
-        <p class="mb-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo
-          odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
-          consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
-          justo
-          odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
-          consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
-          justo
+    </div>
+  </div>
+</section>
+<section class="wrapper bg-light">
+  <div class="container pt-6 pt-md-14">
+    <div class="row">
+      <div class="col-md-6 col-lg-6">
+        <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
+            alt="" /></figure>
+        <p class="mb-6 mt-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo
           odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
           consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
           justo
@@ -142,71 +152,74 @@
           consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
       </div>
       <!--/column -->
-      <div class="col-md-8 col-lg-6 position-relative offset-lg-1">
-        <div class="shape bg-line red rounded-circle rellax w-18 h-18" data-rellax-speed="1"
-          style="top: -2.2rem; left: -2.4rem;"></div>
-        <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0"
-          style="bottom: -1.8rem; right: -1.5rem; width: 85%; height: 90%; "></div>
+      <div class="col-md-6 col-lg-6">
         <figure class="rounded"><img src="./assets/images/index1.png" srcset="./assets/images/index1@2x.png 2x"
             alt="" /></figure>
+        <p class="mb-6 mt-6">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo
+          odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
+          consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras
+          justo
+          odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl
+          consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
       </div>
       <!--/column -->
-      <section class="wrapper bg-light">
-        <figure><img src="./assets/images/banner1.png" alt="" /></figure>
-        <br><br>
-        <figure><img src="./assets/images/banner2.png" alt="" /></figure>
-      </section>
-      <!--/.row -->
-      <div class="row">
-        <div class="col-lg-9 col-xl-8 col-xxl-7 mx-auto text-center">
-          <h2 class="fs-15 text-uppercase text-muted mb-3">Latest Projects</h2>
-          <h3 class="display-4 mb-10">Check out some of our awesome projects with creative ideas and great design.</h3>
-        </div>
-        <!-- /column -->
-      </div>
-      <!-- /.row -->
     </div>
-    <!-- /.container -->
-    <div class="container-fluid px-md-6">
-      <div class="swiper-container blog grid-view mb-17 mb-md-19" data-margin="30" data-nav="true" data-dots="true"
-        data-items-xxl="2" data-items-md="2" data-items-xs="1">
-        <div class="swiper">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-            <div class="swiper-slide">
-              <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
-            </div>
-            <!--/.swiper-slide -->
-          </div>
-          <!--/.swiper-wrapper -->
-        </div>
-        <!-- /.swiper -->
-      </div>
-      <!-- /.swiper-container -->
-    </div>
+  </div>
 </section>
-<!-- /section -->
+<figure><img src="./assets/images/banner1.png" alt="" /></figure>
+<br><br>
+<figure><img src="./assets/images/banner2.png" alt="" /></figure>
+<section class="wrapper bg-light">
+  <div class="container pt-8 pt-md-14">
+    <div class="row">
+      <div class="col-lg-9 col-xl-8 col-xxl-7 mx-auto text-center">
+        <h2 class="fs-15 text-uppercase text-muted mb-3">Latest Projects</h2>
+        <h3 class="display-4 mb-10">Check out some of our awesome projects with creative ideas and great design.</h3>
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+  <div class="container-fluid px-md-6">
+    <div class="swiper-container blog grid-view mb-17 mb-md-19" data-margin="30" data-nav="true" data-dots="true"
+      data-items-xxl="2" data-items-md="2" data-items-xs="1">
+      <div class="swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+          <div class="swiper-slide">
+            <figure class="rounded"><img src="./assets/images/index1.png" alt="" /></figure>
+          </div>
+          <!--/.swiper-slide -->
+        </div>
+        <!--/.swiper-wrapper -->
+      </div>
+      <!-- /.swiper -->
+    </div>
+    <!-- /.swiper-container -->
+  </div>
+</section>
 @endsection
